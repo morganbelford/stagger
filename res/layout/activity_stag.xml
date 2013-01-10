@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.morganbelford.stagger.StagScrollView xmlns:a="http://schemas.android.com/apk/res/android"
+    a:id="@+id/scroller"
+    a:layout_width="match_parent"
+    a:layout_height="match_parent" >
+
+    <com.morganbelford.stagger.StagLayout
+        a:id="@+id/frame"
+        a:layout_width="match_parent"
+        a:layout_height="1000dp"
+        a:background="@drawable/stagger_bg" >
+    </com.morganbelford.stagger.StagLayout>
+
+</com.morganbelford.stagger.StagScrollView>
